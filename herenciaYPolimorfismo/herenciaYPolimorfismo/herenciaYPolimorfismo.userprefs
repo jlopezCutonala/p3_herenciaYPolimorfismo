@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Principal.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Principal.cs" Line="59" Column="25" />
+      <File FileName="Persona.cs" Line="16" Column="10" />
+      <File FileName="Alumno.cs" Line="26" Column="13" />
+      <File FileName="Profesor.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
